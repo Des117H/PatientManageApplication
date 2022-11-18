@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PatientManageApplication</string>
+    <string name="choose_date_to_attend">Choose date to attend</string>
+    <string name="welcomeAct3">History of doctor\'s booking</string>
+    <string name="emptyStr">No data</string>
+    <string-array name="doctor">
+        <item>An</item>
+        <item>Lien</item>
+        <item>Nhi</item>
+        <item>Phuong</item>
+        <item>Tien</item>
+    </string-array>
+</resources>
